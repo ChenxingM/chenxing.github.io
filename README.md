@@ -21,8 +21,8 @@ I use C/C++, Python, JavaScript/TypeScript. 💻
 And I also enjoy photography and watching films! 🎥📷
 
 <div align="center">
-  <img src="https://giphy.com/gifs/take-a-break-cynicism-leftists-qHvKrLT38DLI3MQzfK" alt="Anime Smile" width="300"/>
-  <img src="https://giphy.com/embed/0Pd8jUNH5XuFIhLk00" alt="Anime Coding" width="300"/>
+  <iframe src="https://giphy.com/embed/qHvKrLT38DLI3MQzfK" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/take-a-break-cynicism-leftists-qHvKrLT38DLI3MQzfK">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/0Pd8jUNH5XuFIhLk00" width="480" height="341" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/0Pd8jUNH5XuFIhLk00">via GIPHY</a></p>
 
 </div>
 
