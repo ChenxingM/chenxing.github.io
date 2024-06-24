@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
 - 🌱 I’m currently learning advanced image processing techniques and animation scripting.
-- 💬 Ask me about anything [here](https://github.com/ChenxingM/ChenxingM/issues)
+- 💬 Ask me about anything [here](https://github.com/ChenxingM/chenxingm.github.io/issues)
 
 ## 🚀 Projects
 
