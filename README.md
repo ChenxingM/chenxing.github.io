@@ -5,6 +5,7 @@
 ## 🌟 About Me
 
 <p align="center">
+  I am a 2D anime compositor and a tool developer. 
   I am a passionate developer with a keen interest in animation and image processing. I enjoy creating tools that streamline workflows and enhance productivity.
 </p>
 
