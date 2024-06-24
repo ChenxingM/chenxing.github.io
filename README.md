@@ -8,17 +8,21 @@ I'm participating in lots of anime projects with the nickname "千石まよひ"!
 
 Fluent in 🇨🇳Chinese/🇯🇵Japanese/🇺🇸English. 🌏
 
-Starting next year, I will be a new 2D anime compositor and tools developer. 🎬📱 Currently a fourth-year university student, graduating in 2025, majoring in Animation. 🎓
+Starting next year, I will be a new 2D anime compositor and tools developer in a famous anime company. 🎬📱 
 
-I develop tools for anime production (AE scripts, desktop software, etc.) and work as a freelance anime photographer (mainly for doujin works)! 📸🖥️
+Currently a fourth-year university student, graduating in 2025, majoring in Animation. 🎓
+
+I develop tools for anime production (AE scripts, desktop software, etc.) and used to work as a freelance anime photographer (mainly for doujin works)! 📸🖥️
+
+You can find my anime works during the past few years on my website, you can click the link under the title and watch it directly on bilibili.com
 
 I use C/C++, Python, JavaScript/TypeScript. 💻
 
-I also enjoy photography and watching films. 🎥📷
+And I also enjoy photography and watching films! 🎥📷
 
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anime" width="300"/>
-  <img src="https://media.giphy.com/media/l41m6zfK4i1kWjvQA/giphy.gif" alt="Coding" width="300"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Anime Smile" width="300"/>
+  <img src="https://media.giphy.com/media/3o85xnoIXebk3xYxJ6/giphy.gif" alt="Anime Coding" width="300"/>
 </div>
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
