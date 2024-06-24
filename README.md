@@ -1,4 +1,4 @@
-# Hi there, I'm ChenxingM 👋
+# Hi there, I'm Ma Chenxing (Sengoku Mayoi) 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChenxingM&color=brightgreen)
 
