@@ -14,15 +14,16 @@ Currently a fourth-year university student, graduating in 2025, majoring in Anim
 
 I develop tools for anime production (AE scripts, desktop software, etc.) and used to work as a freelance anime photographer (mainly for doujin works)! 📸🖥️
 
-You can find my anime works during the past few years on my website, you can click the link under the title and watch it directly on bilibili.com
+You can find my anime works during the past few years on my [website](https://ma-chenxing.com), you can click the link under the title and watch it directly on bilibili.com
 
 I use C/C++, Python, JavaScript/TypeScript. 💻
 
 And I also enjoy photography and watching films! 🎥📷
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Anime Smile" width="300"/>
-  <img src="https://media.giphy.com/media/3o85xnoIXebk3xYxJ6/giphy.gif" alt="Anime Coding" width="300"/>
+  <img src="https://giphy.com/gifs/take-a-break-cynicism-leftists-qHvKrLT38DLI3MQzfK" alt="Anime Smile" width="300"/>
+  <img src="https://giphy.com/embed/0Pd8jUNH5XuFIhLk00" alt="Anime Coding" width="300"/>
+
 </div>
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
