@@ -4,17 +4,22 @@
 
 ## 🌟 About Me
 
-I'm participating lots of anime project with the nick name "千石まよひ"!
+I'm participating in lots of anime projects with the nickname "千石まよひ"! 🌸✨
 
-Fluent in Chinese/Japanese/English. 
+Fluent in 🇨🇳Chinese/🇯🇵Japanese/🇺🇸English. 🌏
 
-Starting next year, I will be a new 2D anime compositor and tools developer. Currently a fourth-year university student, graduating in 2025, majoring in Animation.
+Starting next year, I will be a new 2D anime compositor and tools developer. 🎬📱 Currently a fourth-year university student, graduating in 2025, majoring in Animation. 🎓
 
-I develop tools for anime production (AE scripts, desktop software, etc.) and work as a freelance anime photographer (mainly for doujin works)!
+I develop tools for anime production (AE scripts, desktop software, etc.) and work as a freelance anime photographer (mainly for doujin works)! 📸🖥️
 
-I use C/C++, Python, JavaScript/TypeScript.
+I use C/C++, Python, JavaScript/TypeScript. 💻
 
-I also enjoy photography and watching films.
+I also enjoy photography and watching films. 🎥📷
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Anime" width="300"/>
+  <img src="https://media.giphy.com/media/l41m6zfK4i1kWjvQA/giphy.gif" alt="Coding" width="300"/>
+</div>
 
 - 🔭 I’m currently working on **Auto Color Chart 2**
 - 🌱 I’m currently learning advanced image processing techniques and animation scripting.
